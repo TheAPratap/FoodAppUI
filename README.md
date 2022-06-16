@@ -2,7 +2,7 @@
 
 It is a app created using React Native.
 
-<img width="350" alt="Screenshot 2022-03-22 at 10 36 54 AM" src="https://user-images.githubusercontent.com/16948492/159412232-3e3ae58a-1d53-4584-a095-b1d4bb261b54.png">
+<img width="350" alt="Home Page" src="https://raw.githubusercontent.com/TheAPratap/FoodAppUI/main/Screenshot%202022-06-09%20at%205.41.45%20PM.png">
 
 # Features!
 
